@@ -1,0 +1,8 @@
+{
+  "name": "EmojiApp",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular",
+  "id": "831fcc63"
+}
